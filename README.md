@@ -1,1 +1,0 @@
-# microsoft-developer-implement-dotnet-libraries
